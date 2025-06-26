@@ -42,3 +42,4 @@ This project effectively demonstrates how collaborative filtering techniques, pa
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/c5baf92b-f3ec-4ba8-9bfd-6c7744655b08)
